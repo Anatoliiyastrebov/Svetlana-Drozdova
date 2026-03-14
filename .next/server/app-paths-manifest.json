@@ -1,11 +1,11 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/api/send-form/route": "app/api/send-form/route.js",
   "/anketa/page": "app/anketa/page.js",
-  "/page": "app/page.js",
-  "/data-request/page": "app/data-request/page.js",
-  "/impressum/page": "app/impressum/page.js",
-  "/success/page": "app/success/page.js",
   "/api/telegram/delete-message/route": "app/api/telegram/delete-message/route.js",
+  "/page": "app/page.js",
+  "/impressum/page": "app/impressum/page.js",
+  "/api/send-form/route": "app/api/send-form/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/success/page": "app/success/page.js",
+  "/data-request/page": "app/data-request/page.js",
   "/api/telegram/verify-username/route": "app/api/telegram/verify-username/route.js"
 }

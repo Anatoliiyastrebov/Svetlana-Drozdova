@@ -9,7 +9,8 @@ export const metadata: Metadata = {
   title: 'Светлана Дроздова - Консультация по здоровью',
   description: 'Анкеты для консультации по здоровью',
   icons: {
-    icon: '/favicon.png',
+    icon: '/favicon.svg',
+    shortcut: '/favicon.svg',
   },
 };
 
